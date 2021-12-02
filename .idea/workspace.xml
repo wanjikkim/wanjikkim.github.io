@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0bf21225-4b72-4f21-a283-ca5fb2676ea1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-27-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-27-intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-30-mardown.md" beforeDir="false" afterPath="$PROJECT_DIR$/mardown/2021-11-30-mardown.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\wanjikkim.github.io\mardown" />
       <recent name="C:\Users\user\Downloads\wanjikkim.github.io\_posts" />
     </key>
   </component>
@@ -44,7 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638251462829</updated>
       <workItem from="1638251465178" duration="6017000" />
-      <workItem from="1638257678876" duration="347000" />
+      <workItem from="1638257678876" duration="976000" />
+      <workItem from="1638426122562" duration="27000" />
     </task>
     <servers />
   </component>
