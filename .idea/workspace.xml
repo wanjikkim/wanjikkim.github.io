@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bf21225-4b72-4f21-a283-ca5fb2676ea1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-27-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-27-intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2021-11-27-intro/갤럭시북-16380266210823.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2021-11-27-intro/갤럭시북.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2021-11-27-intro/캡처.PNG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,8 @@
       <updated>1638251462829</updated>
       <workItem from="1638251465178" duration="6017000" />
       <workItem from="1638257678876" duration="976000" />
-      <workItem from="1638426122562" duration="1916000" />
+      <workItem from="1638426122562" duration="2545000" />
+      <workItem from="1638791302825" duration="330000" />
     </task>
     <servers />
   </component>
