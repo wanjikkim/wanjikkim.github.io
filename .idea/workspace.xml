@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0bf21225-4b72-4f21-a283-ca5fb2676ea1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-Metabus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-Metabus_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-Mindmap2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-Selfimprovement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee424/images/2021-12-07-EE424_Lec21_GAN/image-20211207162823467.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ee424/2021-12-07-EE424_Lec21_GAN/image_20211207162408475.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,8 @@
       <workItem from="1638426122562" duration="2545000" />
       <workItem from="1638791302825" duration="754000" />
       <workItem from="1638861336964" duration="947000" />
+      <workItem from="1638863228941" duration="883000" />
+      <workItem from="1639027807402" duration="142000" />
     </task>
     <servers />
   </component>
